@@ -1,0 +1,44 @@
+                                          08-Aug-15 17:51:57 --- QUESTION LIST                                         
++-----+-------------------------------+---------+---------------------------------------+-------------+--------+------+
+| No. |           Challenge           |  Author |                  Tags                 | Point Value | Solved | Open |
++-----+-------------------------------+---------+---------------------------------------+-------------+--------+------+
+|   1 | magic_eye.dat                 | Yen     | stego,forensics                       |      50     |  YES   | YES  |
+|   2 | moonwalk                      | Kajer   | forensics,reversing                   |      50     |  YES   | YES  |
+|   3 | Enhance                       | Nodus   | misc,forensics,CSI                    |      50     |  YES   | YES  |
+|   4 | ffbank                        | Kajer   | neckbeard,network,scripting           |     250     |   NO   | YES  |
+|   5 | much_nothing                  | Kajer   | suchforensics,verymisc,wow            |     100     |   NO   | YES  |
+|   6 | Pillars of CTF                | aaronp  | network,crypto,binary,forensics       |     150     |   NO   | YES  |
+|   7 | Runic Power                   | soen    | binary,exploitation,pwnable           |     200     |  YES   | YES  |
+|   8 | Sigil of Darkness             | soen    | binary,exploitation,pwnable           |     200     |  YES   | YES  |
+|   9 | Fleabay 100                   | Nodus   | web                                   |     100     |  YES   | YES  |
+|  10 | dnsh                          | Kajer   | botnet,pwnable                        |     100     |   NO   | YES  |
+|  11 | A Black Eye                   | Yen     | misc                                  |     200     |   NO   |  NO  |
+|  12 | Fleabay 200                   | Nodus   | web                                   |     200     |   NO   | YES  |
+|  13 | shitty security appliance     | Kajer   | admin,pwnable                         |     200     |   NO   | YES  |
+|  14 | Banishing of the Holy Angel 1 | soen    | exploitation,binary,reversing,pwnable |     200     |   NO   | YES  |
+|  16 | Packety Yak                   | aaronp  | stego,crypto,forensics,network        |     250     |   NO   |  NO  |
+|  17 | define_flag                   | Yen     | reversing,misc,tivo                   |     300     |   NO   |  NO  |
+|  18 | Fabulous Secret Passwords     | Yen     | fabulous,stego,forensics,he-man       |     300     |   NO   |  NO  |
+|  19 | Veritable Buzz 1              | Yen     | crypto                                |     300     |   NO   | YES  |
+|  21 | Beating of the Ancients       | soen    | binary,reversing                      |     300     |   NO   | YES  |
+|  22 | blackSmoke - highLow          | soen    | exploitation,binary,reversing,pwnable |     300     |   NO   | YES  |
+|  23 | Door of darkness              | soen    | exploitation,binary,reversing,pwnable |     300     |   NO   | YES  |
+|  24 | Whakami                       | Drifter | network,forensics                     |     300     |   NO   | YES  |
+|  25 | Progressive Encryption        | Yen     | crypto,forensics                      |     350     |   NO   |  NO  |
+|  26 | oldskewlfun                   | Yen     | reversing,misc                        |     350     |   NO   | YES  |
+|  27 | Witches Cat                   | soen    | binary,exploitation,pwnable           |     350     |   NO   | YES  |
+|  29 | Banishing of the Holy Angel 2 | soen    | exploitation,binary,reversing,pwnable |     400     |   NO   | YES  |
+|  30 | iscsiluhn                     | Kajer   | fuckyou                               |     450     |   NO   | YES  |
+|  31 | Veritable Buzz 2              | Yen     | crypto                                |     500     |   NO   | YES  |
+|  32 | Zeta Zill Zone                | soen    | math,reversing,exploitation,binary    |     500     |   NO   |  NO  |
+|  34 | absence                       | sully   | scripting,misc                        |     200     |   NO   | YES  |
+|  35 | forbearance                   | sully   | reversing,binary,scripting            |      50     |   NO   | YES  |
+|  36 | rosetta stone                 | sully   | reversing,binary,scripting            |     400     |   NO   | YES  |
+|  37 | Sanity Check                  | Drifter | trivia                                |      10     |  YES   | YES  |
+|  38 | vidjapoker                    | Yotta   | misc                                  |     250     |   NO   |  NO  |
+|  39 | signfaster                    | Yotta   | crypto                                |     200     |   NO   | YES  |
+|  40 | signfasterer                  | Yotta   | crypto                                |     400     |   NO   | YES  |
+|  41 | diskomatic                    | Yotta   | forensics                             |     200     |   NO   |  NO  |
+|  42 | signfastest                   | yotta   | crypto                                |     100     |   NO   | YES  |
+|  43 | superserial                   | yotta   | usb,misc                              |     100     |   NO   | YES  |
++-----+-------------------------------+---------+---------------------------------------+-------------+--------+------+
